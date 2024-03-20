@@ -1,6 +1,8 @@
 # Velocity-Surge-Race-to-the-Finish
 Welcome to Velocity Surge: Race to the Finish
 
+Developed and built by a passionate creator, this game marks the debut of an exciting journey into the world of game development.
+
 where the thrill of high-speed racing meets the challenge of time. Get ready to blaze through three distinct maps in one of four unique vehicles, each with its own color and personality. Are you prepared to push the limits and emerge victorious?
 
 **Key Features:**
